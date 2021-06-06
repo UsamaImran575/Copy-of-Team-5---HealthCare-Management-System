@@ -1,5 +1,7 @@
 Welcome to Healthcare Management System!
 
+Patient connect with doctors in this application.
+
 Section 1:
 How to run the Project:
 
@@ -16,4 +18,6 @@ Section:3
 Java files paths
 /Code/WORKING/src/java/com/health/data
 
-Section:3
+Section:4
+Java Servelets path
+/Code/WORKING/src/java/com/health/Servelets
