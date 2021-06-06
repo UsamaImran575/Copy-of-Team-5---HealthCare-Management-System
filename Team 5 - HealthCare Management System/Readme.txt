@@ -11,3 +11,9 @@ How to run the Project:
 
 Section 2:
 We did not use any design patterns in our project.
+
+Section:3
+Java files paths
+/Code/WORKING/src/java/com/health/data
+
+Section:3
